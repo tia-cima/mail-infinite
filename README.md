@@ -4,6 +4,8 @@ inviare mail infinite ad un destinatario(ITA)
 english version also available
 
 
+
+
 il programma offre tre opzioni: 
 
 la prima per creare un account gmail con email e password 
