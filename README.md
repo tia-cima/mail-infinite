@@ -1,5 +1,5 @@
 # mail-infinite
-inviare mail infinite ad un destinatario(ITA). English version also available
+Inviare mail infinite ad un destinatario(ITA). English version also available
 
 
 
