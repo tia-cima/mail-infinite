@@ -32,8 +32,8 @@ def invio_mail():
                 else:
                     uscita()
 
-            print(f"\nVerranno inviate mail con l'account: {user}")
-            mittente = user
+        print(f"\nVerranno inviate mail con l'account: {user}")
+          
 
         #INSERIMENTO DESTINATARIO 
         while(True):
@@ -54,7 +54,7 @@ def invio_mail():
             oggetto = (f"Subject: {oggetto0} {n}\n\n")    #per non accordare le mail
             messaggio = oggetto + contenuto
 
-            email.sendmail(mittente, destinatario, messaggio)
+            email.sendmail(user, destinatario, messaggio)
             print(f"email mandate = {n}")
             
             
